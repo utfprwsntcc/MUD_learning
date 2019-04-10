@@ -1,0 +1,46 @@
+Actors
+Atributes
+	• Life Points (int)
+	• Stamina (int) 
+	• Attack (int)
+	• Armor (int)
+	• Carried Items (*list of items)
+	• Equipped items (*list of items)
+	• Max Inventory
+	
+methods
+	• Walk (right, left, up, down)
+	• Attack(*Mob)
+	• Equip(*Item from bag)
+	• Unequip(*Item from equiped)
+	• Loot(*Item from tile)
+	• Drop(*Item from bag)
+	
+Mobs
+Atributes
+	• Life Points
+	• Attack
+	• Armor
+	• items
+	• Carried Items
+	• Equipped items
+
+Methods
+	• Walk (right, left, up, down)
+	• Attack(*Mob)
+	• Drop(*Item from bag)
+
+Equips
+Atributes
+	• Type (Armor / weapon /…)
+	• Life points
+	• Attack
+	• Armor
+
+Methods
+	• 
+
+Tiles
+Atributes
+
+Methods
