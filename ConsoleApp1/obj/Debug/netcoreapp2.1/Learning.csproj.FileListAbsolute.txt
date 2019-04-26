@@ -1,0 +1,11 @@
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\bin\Debug\netcoreapp2.1\Learning.deps.json
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\bin\Debug\netcoreapp2.1\Learning.runtimeconfig.json
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\bin\Debug\netcoreapp2.1\Learning.runtimeconfig.dev.json
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\bin\Debug\netcoreapp2.1\Learning.dll
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\bin\Debug\netcoreapp2.1\Learning.pdb
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.csprojAssemblyReference.cache
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.csproj.CoreCompileInputs.cache
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.AssemblyInfoInputs.cache
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.AssemblyInfo.cs
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.dll
+C:\dev\Visual Studio\MUD\MUD_learning\Learning\ConsoleApp1\obj\Debug\netcoreapp2.1\Learning.pdb

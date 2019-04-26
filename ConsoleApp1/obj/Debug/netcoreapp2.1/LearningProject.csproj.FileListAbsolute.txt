@@ -1,0 +1,11 @@
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.AssemblyInfoInputs.cache
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.AssemblyInfo.cs
+C:\Users\Marcel\source\repos\HelloWorld\bin\Debug\netcoreapp2.1\LearningProject.deps.json
+C:\Users\Marcel\source\repos\HelloWorld\bin\Debug\netcoreapp2.1\LearningProject.runtimeconfig.json
+C:\Users\Marcel\source\repos\HelloWorld\bin\Debug\netcoreapp2.1\LearningProject.runtimeconfig.dev.json
+C:\Users\Marcel\source\repos\HelloWorld\bin\Debug\netcoreapp2.1\LearningProject.dll
+C:\Users\Marcel\source\repos\HelloWorld\bin\Debug\netcoreapp2.1\LearningProject.pdb
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.dll
+C:\Users\Marcel\source\repos\HelloWorld\obj\Debug\netcoreapp2.1\LearningProject.pdb
